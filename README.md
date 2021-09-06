@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://t.me/vhtorr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:victoreverend@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vhtorr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <img alt="Valve Guy" src="https://ik.imagekit.io/xksv/Valve_head2_4UM-URGc6hF.png?updatedAt=1630796185032" align="right"/>
