@@ -8,7 +8,7 @@
 🌱  On track for learning more and more about Web Development.\
 🏃‍♂️  In my free time, I like to drum, do some running, listen to politics podcasts and make webpages as hobbie/side hustle.\
 💬  Feel free to reach out to me in my socials below anytime.\
-📄  Please have a look at my <a href="#">CV</a> for more details about me. I'm open to feedback and suggestions!\
+📄  Please have a look at my <a href="https://github.com/vhtor/vhtor/blob/main/CV%20-%20Victor.pdf">CV</a> for more details about me. I'm open to feedback and suggestions!\
 
 <p align="left">
 <a href="https://t.me/vhtorr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
