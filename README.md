@@ -1,10 +1,11 @@
 ## 👋 Hello there, I'm Victor! (vito is fine)
->  💻 Computer Science Student | 22yo
+>  💻 Computer Science Student | 24yo
 
 ### About Me
 
 ✍️ &nbsp;I like to explore new technologies, bit of a learn addict.\
-🎓  I'm currently studying Computer Science at the Univeridade Federal do Rio Grande do Norte.\
+🎓  Studying Software Engeneering at the Univeridade Federal do Rio Grande do Norte.\
+💼  Currently I'm a fullstack intern at <a href="https://site.esig.com.br/">ESIG Software</a>\
 🌱  On track for learning more and more about Web Development.\
 🏃‍♂️  In my free time, I like to drum, do some running, listen to politics podcasts and make webpages as hobbie/side hustle.\
 💬  Feel free to reach out to me in my socials below anytime.\
@@ -19,6 +20,12 @@
 <img alt="Valve Guy" src="https://ik.imagekit.io/xksv/Valve_head2_4UM-URGc6hF.png?updatedAt=1630796185032" align="right"/>
 
 ### Tech Stack
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
