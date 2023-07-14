@@ -1,15 +1,15 @@
 ## 👋 Hello there, I'm Victor! (vito is fine)
->  💻 Computer Science Student | 24yo
+>  💻 Software Engineering Student | 24yo
 
 ### About Me
 
-✍️ &nbsp;I like to explore new technologies, bit of a learn addict.\
-🎓  Studying Software Engeneering at the Univeridade Federal do Rio Grande do Norte.\
-💼  Currently I'm a fullstack intern at <a href="https://site.esig.com.br/">ESIG Software</a>\
-🌱  On track for learning more and more about Web Development.\
-🏃‍♂️  In my free time, I like to drum, do some running, listen to politics podcasts and make webpages as hobbie/side hustle.\
+✍️ &nbsp;I love how subtle and vital backend development is...\
+🎓  Studying Software Engeneering at Univeridade Federal do Rio Grande do Norte.\
+💼  Currently I'm a Fullstack Web Developer at <a href="https://site.esig.com.br/">ESIG Software</a>\
+🌱  Learning more and more about Backend Web Development.\
+🏃‍♂️  In my free time, I like to drum, do some workout or running, listen to politics podcasts and make webpages as hobbie/side hustle.\
 💬  Feel free to reach out to me in my socials below anytime.\
-📄  Please have a look at my <a href="https://github.com/vhtor/vhtor/blob/main/CV%20-%20Victor.pdf">CV</a> for more details about me. I'm open to feedback and suggestions!
+📄  Take a look at my <a href="">CV</a> for more details about me. I'm open to feedback and suggestions.
 
 <p align="left">
 <a href="https://t.me/vhtorr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -21,6 +21,7 @@
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
@@ -31,6 +32,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>&nbsp;
 
 ### GitHub Analytics
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhtor&hide_border=true&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
