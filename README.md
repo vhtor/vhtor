@@ -7,7 +7,7 @@
 🎓  Studying Software Engeneering at Univeridade Federal do Rio Grande do Norte.\
 💼  Currently I'm a Fullstack Web Developer at <a href="https://site.esig.com.br/">ESIG Software</a>\
 🌱  Learning more and more about Backend Web Development.\
-🏃‍♂️  In my free time, I like to drum, do some workout or running, listen to politics podcasts and make webpages as hobbie/side hustle.\
+🏃‍♂️  In my free time, I like to drum and do some workout or running.\
 💬  Feel free to reach out to me in my socials below anytime.\
 📄  Take a look at my <a href="https://github.com/vhtor/vhtor/blob/main/CV_Victor_Hugo_20230714.pdf">CV</a> for more details about me.
 
