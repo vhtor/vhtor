@@ -1,5 +1,5 @@
-## 👋 Hello there, I'm Victor! (vito is fine)
->  💻 Software Engineering Student | 24yo
+## 👋 Hi, I'm Victor
+>  💻 Software Engineering Student | 26yo
 
 ### About Me
 
@@ -9,7 +9,7 @@
 🌱  Learning more and more about Backend Web Development.\
 🏃‍♂️  In my free time, I like to drum, do some workout or running, listen to politics podcasts and make webpages as hobbie/side hustle.\
 💬  Feel free to reach out to me in my socials below anytime.\
-📄  Take a look at my <a href="https://github.com/vhtor/vhtor/blob/main/CV_Victor_Hugo_20230714.pdf">CV</a> for more details about me. I'm open to feedback and suggestions.
+📄  Take a look at my <a href="https://github.com/vhtor/vhtor/blob/main/CV_Victor_Hugo_20230714.pdf">CV</a> for more details about me.
 
 <p align="left">
 <a href="https://t.me/vhtorr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
