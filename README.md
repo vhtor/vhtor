@@ -3,13 +3,11 @@
 
 ### About Me
 
-✍️ &nbsp;I love how subtle and vital backend development is...\
+✍️ &nbsp;I like how subtle and vital backend development is...\
 🎓  Studying Software Engeneering at Univeridade Federal do Rio Grande do Norte.\
-💼  Currently I'm a Fullstack Web Developer at <a href="https://site.esig.com.br/">ESIG Software</a>\
-🌱  Learning more and more about Backend Web Development.\
+💼  Currently I'm a Backend Kotlin Developer at <a href="https://aircompany.ai/en/what-we-do/about-us.html/">AI/R</a>\
 🏃‍♂️  In my free time, I like to drum and do some workout or running.\
 💬  Feel free to reach out to me in my socials below anytime.\
-📄  Take a look at my <a href="https://github.com/user-attachments/files/19038933/CV_Victor_Hugo_EN.pdf">CV</a> for more details about me.
 
 <p align="left">
 <a href="https://t.me/vhtorr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
