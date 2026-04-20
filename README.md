@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Victor
->  💻 Software Engineering Student | 26yo
+>  💻 Backend Developer | 27yo
 
 ### About Me
 
 ✍️ &nbsp;I like how subtle and vital backend development is...\
-🎓  Studying Software Engeneering at Univeridade Federal do Rio Grande do Norte.\
+🎓  Graduated in Software Engeneering at Univeridade Federal do Rio Grande do Norte.\
 💼  Currently I'm a Backend Kotlin Developer at <a href="https://aircompany.ai/en/what-we-do/about-us.html/">AI/R</a>\
 🏃‍♂️  In my free time, I like to drum and do some workout or running.\
 💬  Feel free to reach out to me in my socials below anytime.\
