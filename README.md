@@ -25,8 +25,4 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
 
-### GitHub Analytics
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhtor&hide_border=true&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhtor&layout=compact&theme=prussian&hide_border=true&hide=c,roff)](https://github.com/anuraghazra/github-readme-stats)
-
 💻 From [vhtor](https://github.com/vhtor)
